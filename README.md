@@ -13,3 +13,7 @@ Bluetooth 기반 RC카 제어와 Arduino–STM32 연동을 구현한 임베디�
 ## 사용 기술
 
 `STM32` `Arduino` `UART` `TCP/IP` `Bluetooth` `Python Bridge`
+
+## 프로젝트 문서
+
+[프로젝트 상세 설명 →](PROJECT.md)
